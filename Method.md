@@ -4,7 +4,7 @@
 <br><br><br><br><br>
 When I enetered the Lab, I was presented with a website full of blogs.
 <img width="1706" height="949" alt="image" src="https://github.com/user-attachments/assets/45f1395d-dae8-48b2-99cb-aa8cb9df781d" />
-After explorig the page further I found 2 possible XSS points, the search bar and the comments section.
+After exploring the page further I found 2 possible XSS points, the search bar and the comments section.
 From the information given before the lab, I knew that the simplest XSS payload would be: 
 ```
 <script>alert()</script>
